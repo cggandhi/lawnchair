@@ -32,6 +32,6 @@ jobs:
         with:
           tag_name: infinitefire-latest
           name: InfiniteFire Launcher (Latest Build)
-          files: lawnchair/build/outputs/apk/debug/*.apk
+          files: "**/*.apk"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
