@@ -142,8 +142,8 @@
     <string name="my_folder_label">My folder</string>
     <string name="sort_active_items_action">Sort active items</string>
 
-    <!-- A11y description -->
-    <string name="accessibility_service_description">To perform certain actions when you use a gesture, such as locking your phone, Lawnchair requires accessibility access.\n\nLawnchair doesn\'t watch your actions, though all accessibility services require this privilege. Lawnchair discards any event sent by the system.\n\nTo lock your phone or open the Recents screen, Lawnchair uses the performGlobalAction accessibility service.</string>
+        <!-- A11y description -->
+        <string name="accessibility_service_description">To perform certain actions when you use a gesture, such as locking your phone, InfiniteFire requires accessibility access.\n\nInfiniteFire doesn\'t watch your actions, though all accessibility services require this privilege. InfiniteFire discards any event sent by the system.\n\nTo lock your phone or open the Recents screen, InfiniteFire uses the performGlobalAction accessibility service.</string>
 
     <string name="iconPackPackageDefault" translatable="false">""</string>
 
