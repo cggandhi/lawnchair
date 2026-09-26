@@ -276,7 +276,7 @@
     <string name="prediction_system_settings">Manage system suggestions</string>
 
     <string name="missing_usage_access_label">Usage access needed</string>
-    <string name="missing_usage_access_desc">To improve app suggestions, turn on usage access for <xliff:g id="name" example="Lawnchair">%1$s</xliff:g></string>
+    <string name="missing_usage_access_desc">To improve app suggestions, turn on usage access for <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g></string>
 
     <!--
 
@@ -1021,44 +1021,42 @@
 
     <!-- Permission management -->
     <string name="missing_notification_access_label">Notification access needed</string>
-    <string name="missing_notification_access_desc">To show notification dots, turn on app notifications for <xliff:g id="name" example="My App">%1$s</xliff:g>
-    </string>
+    <string name="missing_notification_access_desc">To show notification dots, turn on app notifications for <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g></string>
 
     <string name="warn_contact_permission_title">Contacts permission needed</string>
-    <string name="warn_contact_permission_content">To search for contacts, grant contacts and phone permissions to <xliff:g id="name" example="My App">%1$s</xliff:g>
-    </string>
+    <string name="warn_contact_permission_content">To search for contacts, grant contacts and phone permissions to <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g></string>
 
     <string name="permissions_music_audio">Music and audio access needed</string>
-    <string name="permissions_music_audio_description">To search your music and other audio files, <xliff:g id="name" example="My App">%1$s</xliff:g> needs permission to access your media library</string>
+    <string name="permissions_music_audio_description">To search your music and other audio files, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> needs permission to access your media library</string>
 
     <!-- Photos and videos -->
     <string name="permissions_photos_videos">Photos and videos access needed</string>
-    <string name="permissions_photos_videos_description">To search your photos and videos, <xliff:g id="name" example="My App">%1$s</xliff:g> needs permission to access your media library</string>
+    <string name="permissions_photos_videos_description">To search your photos and videos, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> needs permission to access your media library</string>
 
     <string name="permissions_photos_videos_full">Access your full media library?</string>
-    <string name="permissions_photos_videos_full_description">To search all your photos and videos, <xliff:g id="name" example="My App">%1$s</xliff:g> needs full access to your media library</string>
+    <string name="permissions_photos_videos_full_description">To search all your photos and videos, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> needs full access to your media library</string>
     <string name="permissions_photos_videos_grant_full">Grant full media permissions</string>
     <string name="permissions_photos_videos_manage_selected">Manage selected items</string>
 
     <!-- External storage -->
     <string name="permissions_external_storage">External storage access needed</string>
-    <string name="permissions_external_storage_description">To search your files, <xliff:g id="name" example="My App">%1$s</xliff:g> needs permission to access your device\'s external storage</string>
+    <string name="permissions_external_storage_description">To search your files, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> needs permission to access your device\'s external storage</string>
 
     <string name="permissions_manage_storage">Manage storage access needed</string>
-    <string name="permissions_manage_storage_description">To display your files in search results, <xliff:g id="name" example="My App">%1$s</xliff:g> requires permission to manage all files on your device. This permission is used solely to list files and will not be used to read or change the content of your personal files.</string>
+    <string name="permissions_manage_storage_description">To display your files in search results, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> requires permission to manage all files on your device. This permission is used solely to list files and will not be used to read or change the content of your personal files.</string>
 
-    <string name="permission_desc_wallpaper_base">To display wallpaper previews and include them in backups, <xliff:g id="name" example="My App">%1$s</xliff:g> requires permission \%2$s. This is due to system limitations for accessing wallpaper data.</string>
+    <string name="permission_desc_wallpaper_base">To display wallpaper previews and include them in backups, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> requires permission \%2$s. This is due to system limitations for accessing wallpaper data.</string>
     <string name="permission_desc_ending_read_all_files">to read all files on your device</string>
     <string name="permission_desc_ending_manage_all_files">to manage all files on your device</string>
 
     <string name="permission_desc_wallpaper_multiple">Multiple permissions needed</string>
-    <string name="permission_desc_wallpaper_multiple_desc">To display wallpaper previews and include them in backups, <xliff:g id="name" example="My App">%1$s</xliff:g> requires the following permissions. This is due to system limitations for accessing wallpaper data.</string>
+    <string name="permission_desc_wallpaper_multiple_desc">To display wallpaper previews and include them in backups, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> requires the following permissions. This is due to system limitations for accessing wallpaper data.</string>
 
     <string name="permission_label_manage_all_files">Manage all files on device</string>
     <string name="permission_label_read_photos_videos">Read photos and videos</string>
 
     <string name="manage_storage_access_denied_title">Cannot turn on manage storage access</string>
-    <string name="manage_storage_access_denied_description">Due to Play Store policy, <xliff:g id="name" example="My App">%1$s</xliff:g> cannot request full storage access here. To access all files, please download <xliff:g id="name" example="My App">%1$s</xliff:g> from GitHub. Alternatively, you can grant access to photos, videos, and audio files individually in settings.</string>
+    <string name="manage_storage_access_denied_description">Due to Play Store policy, <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> cannot request full storage access here. To access all files, please download <xliff:g id="name" example="InfiniteFire">%1$s</xliff:g> from GitHub. Alternatively, you can grant access to photos, videos, and audio files individually in settings.</string>
 
     <string name="open_permission_settings">Open settings</string>
     <string name="grant_requested_permissions">Grant permissions</string>
