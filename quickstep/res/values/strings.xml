@@ -410,4 +410,11 @@
     <!-- Accessibility announcement for closing the nudge window. [CHAR_LIMIT=16] -->
     <string name="nudge_a11y_close">Close</string>
     <string name="nudge_a11y_image">Nudge image</string>
+
+    <!-- InfiniteFire Onboarding & Brand Overrides -->
+    <string name="onboarding_welcome">Welcome to InfiniteFire!</string>
+    <string name="onboarding_swipe_up">Swipe up to open the app drawer</string>
+    <string name="accessibility_service_dialog_description">To put the device to sleep, turn on the InfiniteFire accessibility service. Tap \"Open settings\", choose \"InfiniteFire\" and turn on \"Use InfiniteFire.\"</string>
+    <string name="accessibility_service_dialog_disclaimer">InfiniteFire uses Accessibility\'s `performGlobalAction` method to perform this action. This is a sensitive permission that allows monitoring other apps. However, InfiniteFire is not configured for that functionality and receives no events.</string>
+    <string name="accessibility_service_label">InfiniteFire accessibility service</string>
 </resources>
