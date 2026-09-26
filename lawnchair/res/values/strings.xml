@@ -516,13 +516,13 @@
     <string name="torch_action_off">Tap to turn off</string>
 
     <!-- Onboarding strings -->
-    <string name="onboarding_open_settings_title">Set up Lawnchair</string>
+    <string name="onboarding_open_settings_title">Set up InfiniteFire</string>
     <string name="onboarding_open_settings_subtitle">Long-press on the home screen to open settings</string>
 
-    <string name="onboarding_major_upgrade_title">Meet the new Lawnchair</string>
+    <string name="onboarding_major_upgrade_title">Meet the new InfiniteFire</string>
     <string name="onboarding_major_upgrade_subtitle">See what\'s new</string>
 
-    <string name="onboarding_welcome">Welcome to Lawnchair!</string>
+    <string name="onboarding_welcome">Welcome to InfiniteFire!</string>
     <string name="onboarding_swipe_up">Swipe up to open the app drawer</string>
 
     <!-- Smartspacer strings -->
@@ -536,11 +536,11 @@
 
     <!-- Toggle button for enabling Smartspace -->
     <string name="smartspace_widget_toggle_label">Show on home screen</string>
-    <string name="smartspace_widget_toggle_description">At a Glance can be added to the home screen with the Lawnchair widget</string>
+    <string name="smartspace_widget_toggle_description">At a Glance can be added to the home screen with the InfiniteFire widget</string>
 
     <!-- List of available providers -->
     <string name="smartspace_mode_label">At a Glance provider</string>
-    <string name="smartspace_mode_lawnchair" translatable="false">Lawnchair</string>
+    <string name="smartspace_mode_lawnchair" translatable="false">InfiniteFire</string>
     <string name="smartspace_mode_google">Google</string>
     <string name="smartspace_mode_google_search">Google Search</string>
     <string name="smartspace_mode_smartspacer" translatable="false">Smartspacer</string>
@@ -650,7 +650,7 @@
     <string name="pick_app_for_gesture">Pick app</string>
 
     <string name="dt2s_admin_hint_title">Admin permissions required</string>
-    <string name="dt2s_admin_hint">To put the device to sleep, set Lawnchair as a device admin app. Tap \"Open settings\", then tap \"Activate this device admin app.\"</string>
+    <string name="dt2s_admin_hint">To put the device to sleep, set InfiniteFire as a device admin app. Tap \"Open settings\", then tap \"Activate this device admin app.\"</string>
     <string name="dt2s_admin_warning">Gestures to put the device to sleep will be turned off.</string>
 
     <string name="d2ts_recents_a11y_hint_title">Turn on accessibility service</string>
@@ -660,8 +660,8 @@
     <string name="quick_settings_a11y_hint">open the Quick Settings panel</string>
     <string name="recents_screen_a11y_hint">open the Recents screen</string>
 
-    <string name="generic_a11y_hint">To %1$s, turn on the Lawnchair accessibility service. Tap \"Open settings\", choose \"Lawnchair\" and turn on \"Use Lawnchair.\"</string>
-    <string name="generic_a11y_disclaimer">Lawnchair uses Accessibility\'s `performGlobalAction` method to perform this action. This is a sensitive permission that allows monitoring other apps. However, Lawnchair is not configured for that functionality and receives no events.</string>
+    <string name="generic_a11y_hint">To %1$s, turn on the InfiniteFire accessibility service. Tap \"Open settings\", choose \"InfiniteFire\" and turn on \"Use InfiniteFire.\"</string>
+    <string name="generic_a11y_disclaimer">InfiniteFire uses Accessibility\'s `performGlobalAction` method to perform this action. This is a sensitive permission that allows monitoring other apps. However, InfiniteFire is not configured for that functionality and receives no events.</string>
 
     <string name="sleep_mode_label">Sleep mode</string>
     <string name="sleep_mode_auto">Automatic</string>
@@ -674,7 +674,7 @@
     Bug reporting
 
     -->
-    <string name="lawnchair_bug_report">Lawnchair bug report</string>
+    <string name="lawnchair_bug_report">InfiniteFire bug report</string>
     <string name="crash_report_notif_title">%1$s crashed</string>
     <string name="action_upload_crash_report">Upload crash log</string>
 
