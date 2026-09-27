@@ -97,7 +97,7 @@ class OnboardingProvider(context: Context) :
                     headerAction = SmartspaceAction(
                         id = "onboarding-swipe-action",
                         icon = null,
-                        title = context.getString(R.string.onboarding_welcome),
+                        title = "Welcome to InfiniteFire!",
                         subtitle = context.getString(R.string.onboarding_swipe_up),
                         pendingIntent = null,
                     ),
